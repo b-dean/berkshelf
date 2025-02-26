@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "mixlib-shellout",      ">= 2.0", "< 4.0"
   s.add_dependency "cleanroom",            "~> 1.0"
-  s.add_dependency "minitar",              ">= 0.6"
+  s.add_dependency "minitar",              "~> 1.0"
   s.add_dependency "retryable",            ">= 2.0", "< 4.0"
   s.add_dependency "solve",                "~> 4.0"
   s.add_dependency "thor",                 ">= 0.20"
